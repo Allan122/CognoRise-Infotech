@@ -3,7 +3,7 @@
 Welcome to the project repository for CognoRise-Infotech. This repository contains three innovative projects developed to demonstrate the application of artificial intelligence in various domains:
 
 ### 1. Tic Tac Toe AI
-A sophisticated AI-driven implementation of the classic Tic Tac Toe game. This project showcases the use of advanced algorithms to create an unbeatable AI opponent, providing users with an engaging and challenging gameplay experience.
+A sophisticated AI-driven implementation of the classic Tic Tac Toe game. This project showcases the use of advanced minimax algorithms to create an unbeatable AI opponent, providing users with an engaging and challenging gameplay experience.
 
 ![Screenshot 2024-05-20 135227](https://github.com/Allan122/allan-s_portfolio/assets/45638226/47c86ef0-f0f9-47e8-bcfe-fbcf026690ca)
 
