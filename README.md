@@ -15,7 +15,6 @@ An AI-powered Ping Pong game that highlights the capabilities of machine learnin
 ### 3. Twitter Sentiment Analysis
 A comprehensive project that utilizes natural language processing (NLP) techniques to analyze and classify sentiments expressed in tweets. This project aims to provide insights into public opinion by categorizing tweets into positive, negative, or neutral sentiments.
 
-![Screenshot 2024-05-20 134836](https://github.com/Allan122/allan-s_portfolio/assets/45638226/513e4814-b25b-4c44-a301-902faf11136b)
 ![Screenshot 2024-05-20 134546](https://github.com/Allan122/allan-s_portfolio/assets/45638226/fe108557-aedf-4056-a07e-b93ccebdf7af)
 
 These projects reflect our commitment to leveraging artificial intelligence to create intelligent, responsive, and interactive applications. 
